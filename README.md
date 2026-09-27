@@ -1,4 +1,5 @@
 # Аттестационное задание №2: Анализ данных RFSD
+https://github.com/Alfira233/Attestazia2
 
 ## Описание проекта
 
